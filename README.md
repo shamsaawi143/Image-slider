@@ -13,7 +13,7 @@ This is a simple Image Slider project built using HTML,CSS and Javascript.
 - CSS3
 - Javascript
 ## 📸 Screenshot
-![Image Slider Screenshot](/my projects/screenshot.png)
+![Image Slider Screenshot](screenshot.png)
 
 ## 🌍 Live Demo
 
