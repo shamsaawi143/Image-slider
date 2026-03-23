@@ -17,6 +17,8 @@ This is a simple Image Slider project built using HTML,CSS and Javascript.
 
 https://github.com/shamsaawi143/image-slider/
 
+![Image-slider Screenshot](assets/Screenshot.png)
+
 ## 📚 Installation
 
 Clone the repositry
